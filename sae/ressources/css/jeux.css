@@ -1,0 +1,251 @@
+.conteneur-1281 {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.conteneur-1282 {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.container 
+{  
+  padding-left: 40rem;
+  max-width: 800px;
+  display: grid;
+  grid-template-columns: 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr;
+  grid-template-rows: 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
+  align-items: center;
+  grid-template-areas:
+    ". . . . . R . . . . ."
+    ". . . . . c1 . . . . ."
+    ". . . . . c2 . . . . ."
+    ". . U . . c3 . . . . ."
+    "X c8 c7 c6 c5 c4 . . . . B"
+    ". . c9 . . . . A . . c19"
+    "F c10 c11 c12 c13 c14 c15 c16 c17 c18 c20"
+    ". . c29 . . . . c25 . . c21"
+    ". . c30 . . . . c26 . . c22"
+    ". . . . Q . . c27 . . c23"
+    ". . . . c32 . . c28 . . c24"
+    ". N c33 c34 c35 c36 c37 c38 c39 c40 ."
+    ". . . . c46 . . c44 . . ."
+    ". . S c41 c42 c43 . c45 . . ."
+    ". . . . c31 . . . . . .";
+}
+
+.R { grid-area: R; 
+  }
+
+.U { grid-area: U; }
+
+.X { grid-area: X; }
+
+.F { grid-area: F; }
+
+.N { grid-area: N; }
+
+.Q { grid-area: Q; }
+
+.A { grid-area: A; }
+
+.B { grid-area: B; }
+
+.S { grid-area: S; }
+
+.c1 { grid-area: c1; }
+
+.c2 { grid-area: c2; }
+
+.c3 { grid-area: c3; }
+
+.c4 { grid-area: c4; }
+
+.c5 { grid-area: c5; }
+
+.c6 { grid-area: c6; }
+
+.c7 { grid-area: c7; }
+
+.c8 { grid-area: c8; }
+
+.c9 { grid-area: c9; }
+
+.c19 { grid-area: c19; }
+
+.c10 { grid-area: c10; }
+
+.c11 { grid-area: c11; }
+
+.c12 { grid-area: c12; }
+
+.c13 { grid-area: c13; }
+
+.c14 { grid-area: c14; }
+
+.c15 { grid-area: c15; }
+
+.c16 { grid-area: c16; }
+
+.c17 { grid-area: c17; }
+
+.c18 { grid-area: c18; }
+
+.c20 { grid-area: c20; }
+
+.c21 { grid-area: c21; }
+
+.c22 { grid-area: c22; }
+
+.c23 { grid-area: c23; }
+
+.c24 { grid-area: c24; }
+
+.c25 { grid-area: c25; }
+
+.c26 { grid-area: c26; }
+
+.c27 { grid-area: c27; }
+
+.c28 { grid-area: c28; }
+
+.c29 { grid-area: c29; }
+
+.c30 { grid-area: c30; }
+
+.c32 { grid-area: c32; }
+
+.c33 { grid-area: c33; }
+
+.c34 { grid-area: c34; }
+
+.c35 { grid-area: c35; }
+
+.c36 { grid-area: c36; }
+
+.c37 { grid-area: c37; }
+
+.c38 { grid-area: c38; }
+
+.c39 { grid-area: c39; }
+
+.c40 { grid-area: c40; }
+
+.c46 { grid-area: c46; }
+
+.c41 { grid-area: c41; }
+
+.c42 { grid-area: c42; }
+
+.c43 { grid-area: c43; }
+
+.c44 { grid-area: c44; }
+
+.c45 { grid-area: c45; }
+
+.c31 { grid-area: c31; }
+
+.case 
+{
+ 
+  font-size: 0.4rem;
+resize: none;
+text-align: center;
+vertical-align: middle;
+
+}
+ 
+.in 
+{
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  font-size: 2rem;
+  height: 50px;
+  width: 50px;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  border-color: blue;
+  
+  
+}
+.inp {
+  
+  height: 50px;
+  width: 50px;
+  font-size: 2rem;
+  font-weight: bold;
+  color: rgb(58, 26, 26);
+  text-align: center;
+  text-transform: uppercase;
+}
+.flex-deuxieme-partie
+{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.n-partie 
+{
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(15, 197, 24);
+  padding-top: 25px;
+}
+.consignes 
+{
+  font-size: 1.2rem ;
+  font-weight: bold;
+  color: darkorange;
+  padding-top: 18px;
+}
+.details-consignes 
+{
+  font-size: 1rem;
+  color: rgb(5, 5, 5);
+  font-weight: bold;
+  padding-top: 0.5rem;
+  max-width: 800px;
+  
+}
+.envoie-reponses 
+{
+  background-color: rgb(36, 96, 207);
+  font-size: 1.3rem;
+  width: 250px;
+  height: 40px;
+  color: white;
+  
+}
+
+.bravo 
+{
+  font-size: 5rem;
+  font-weight: bold;
+  color: green;
+  padding: 25px 0 120px 25px;
+}
+
+.echec 
+{
+  font-size: 5rem;
+  font-weight: bold;
+  color: red;
+  padding: 25px 0 120px 25px;
+}
+  
+.aller-accueil 
+{
+ 
+  background-color: greenyellow;
+  color: rgb(240, 112, 8);
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 25px 0 150px 20px;
+}
+  

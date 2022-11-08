@@ -1,0 +1,270 @@
+.bulle-icone.jaune {
+    background-color: #ecdf1e;
+}
+
+
+.bulle-icone-bordure.jaune 
+{
+    background-color: #d39726;
+}
+
+
+.sous-titre {
+    font-weight: bold;
+    font-size: 40px;
+    color: #000000;
+    
+    margin-bottom: 10px;
+}
+.sous-titre2 
+{
+    font-weight: bold;
+    font-size: 30px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.sous-titre3
+{
+    font-weight: bold;
+    font-size: 30px;
+    color: #000000;
+    padding-top: 100px;
+    padding-bottom: 10px;
+    margin-bottom: 0.5px;
+
+}
+
+
+
+
+.position p {
+    font-size: 20px;
+    margin-bottom: 14px;
+    font: Segoe UI;
+}
+
+.position span {
+    font-weight: bold;
+
+}
+
+.label 
+{
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.bloc {
+    
+    border: 1px solid #707070;
+    border-radius: 5px;
+    opacity: 1;
+    width: 877px;
+    height: 69px;
+    font-size: 20px;
+    
+}
+
+.blocmessage {
+    
+    font-size: 20px;
+    border: 1px solid #707070;
+    border-radius: 5px;
+    opacity: 1;
+    width: 877px;
+    height: 356px;
+
+
+}
+
+.cordonnes { 
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.jesuis {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    margin-bottom: 10px;
+}
+
+
+
+/*input [type="radio"] 
+{
+    display: flex;
+    flex-direction: row;
+}
+
+input:invalid 
+{
+    
+    background-color: #FDD;
+    display: block;
+}
+input:valid {
+    
+    display: block;
+    background-color: #FDD;
+    */
+
+
+.envoyer
+
+{
+    width: 877px;
+    height: 85px;
+    margin-top: 50px;
+    background: #195bdd ;
+    color: white;
+    font: normal normal bold 42px/56px Segoe UI;
+    letter-spacing: 0px;
+    border-radius: 5px;
+}
+
+.courriel{
+    font-size: 20px;
+}
+
+
+
+.bas { 
+    padding-top: 50px;
+    line-break: normal;
+    font-size: 20px; 
+
+}
+
+.label-multichoix
+{
+    padding-top: 20px;
+}
+
+.footer  
+
+{ 
+    margin-top: 5rem;
+    
+    margin-left: auto; 
+
+    margin-right: auto; 
+
+    text-align: center; 
+
+    width: 655px; 
+
+    height: 31px; 
+
+} 
+
+.texte-footer 
+
+{ 
+
+text-align: center; 
+
+font: normal normal normal 20px/27px Segoe UI; 
+
+letter-spacing: 0px; 
+
+color: #707070; 
+
+opacity: 1; 
+
+} 
+
+
+
+.liens-footer 
+
+{ 
+
+padding-bottom: 11px; 
+
+text-align: center; 
+
+font: normal normal normal 20px/27px Segoe UI; 
+
+letter-spacing: 0px; 
+
+opacity: 1; 
+
+
+} 
+
+.logo 
+
+{ 
+
+    padding-top: 45px; 
+    background: transparent url('img/logo-cyu-couleur.png') 0% 0% no-repeat padding-box; 
+    opacity: 1; 
+} 
+
+.barre-message-envoye1  
+
+{ 
+    text-align: center; 
+    height: 71px; 
+    background: #7dbe57 0% 0% no-repeat padding-box; 
+    border: 1px solid #C3E6CB; 
+    border-radius: 5px; 
+    opacity: 1; 
+} 
+
+.message-envoye1 
+
+{ 
+
+    padding-top: 15px; 
+    text-align: center; 
+    font: normal normal 600 24px/32px Segoe UI; 
+    letter-spacing: 0px; 
+    color: #015c08; 
+    opacity: 1; 
+    vertical-align: middle; 
+
+}
+
+.barre-message-envoye2  
+
+{ 
+    text-align: center; 
+    height: 71px; 
+    background: #c2767d 0% 0% no-repeat padding-box; 
+    border: 1px solid #C3E6CB; 
+    border-radius: 5px; 
+    opacity: 1; 
+} 
+
+.message-envoye2 
+
+{ 
+
+    padding-top: 15px; 
+    text-align: center; 
+    font: normal normal 600 24px/32px Segoe UI; 
+    letter-spacing: 0px; 
+    color: #a50000; 
+    opacity: 1; 
+    vertical-align: middle; 
+
+}
+ 
+.etu
+{
+    margin-left: 20px;
+    font-size: small;
+    color: rgb(20, 31, 182);
+    opacity: 1;
+}

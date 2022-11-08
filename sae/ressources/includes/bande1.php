@@ -1,0 +1,1 @@
+<div class="barre-message-envoye1"> <p class="message-envoye1"> Message envoyé </div>

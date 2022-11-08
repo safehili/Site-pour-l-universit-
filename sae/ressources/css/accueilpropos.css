@@ -1,0 +1,151 @@
+
+      
+.block {
+    background-color: #F9F9F9;
+    text-decoration-color: #03886D;
+    width: 18.25rem;
+    height: 9.9375rem ;
+    opacity: 1;
+    top: 38.125rem;
+    left: 20rem ;
+    border: solid #03886D 0.125rem;
+}
+.presentation 
+{
+    padding: 1rem 2.75rem 0.125rem 1rem;
+    text-align: left;
+    font: normal normal 600 1.5rem/2rem Segoe UI;
+    letter-spacing: 0px;
+    color: #03886D ;
+    opacity: 1;
+}
+
+.sae
+{ padding: 1rem 2.75rem 0.125rem 1rem;
+  text-align: left;
+  font: normal normal 600 1.5rem/2rem Segoe UI;
+  letter-spacing: 0px;
+  color: #03886D;
+  opacity: 1;
+}
+
+.exemples
+{
+    padding: 1rem 2.75rem 0.125rem 1rem;
+    text-align: left;
+    font: normal normal 600 1.5rem/2rem Segoe UI;
+    letter-spacing: 0px;
+    color: #03886D;
+    opacity: 1; 
+}
+
+.a {
+    list-style-type: circle; 
+      line-height: 1.1;
+      font-size: 1.2rem;
+  }
+
+.paragraphe {
+    
+    text-align: left;
+    font: normal normal normal 1.25rem/1.6rem Segoe UI;
+    color: #000000;
+    opacity: 1;
+    padding-bottom: 1.875rem;
+    
+}
+.paragraphe2 {
+    
+    text-align: left;
+    font: normal normal normal 1.25rem/1.6rem Segoe UI;
+    color: #000000;
+    opacity: 1;
+    padding-top:2.5rem;
+    padding-bottom: 3.75rem;
+}
+
+.titreparagraphe {
+
+    text-align: left;
+    font: normal normal bold 2.25rem/3rem Segoe UI;
+    color: #000000;
+    opacity: 1;
+    padding-bottom: 1.875rem;
+}
+
+.paragraphe3 {
+
+    text-align: left;
+    color: #000000;
+    opacity: 1;
+    font: normal normal normal 1.25rem/2rem Segoe UI;
+    padding-bottom: 1.25rem;
+}
+
+.span {
+
+    font-weight:bolder;
+}
+
+.image {
+
+    padding-top: 1.875rem;
+    left: 20.125rem;
+    width: 80rem;
+    height: 53.375rem;
+}
+
+.boite-texte 
+{
+    width: 80.125rem;
+    height: 21.9375rem;
+    padding-top: 1.875rem;
+    left: 20.125rem;
+}
+
+.flex-container
+{   
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 1.25rem;
+    
+
+}
+.flex-item img {
+
+    width: 100%;
+    
+}
+.flex-item
+{
+    width: 25rem;
+    height:20.3125rem;
+    margin: 0.625rem;
+    padding:0.625rem 0.625rem 1.875rem 0.625rem;
+    opacity: 1;
+    box-shadow: 0rem 0.1875rem 0.375rem #00000029;
+}
+
+.titreimage
+{
+
+    text-align: left;
+    font: normal normal bold 1rem/2rem Segoe UI;
+    color: #000000;
+    opacity: 1;
+    padding-bottom: 0.125rem; 
+    margin: 0px; 
+    
+}
+
+.textimage
+{
+    padding-bottom: 0.0625rem; 
+
+}
+
+
+
+ 
+
